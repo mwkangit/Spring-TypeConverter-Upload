@@ -147,13 +147,13 @@ public class SpringUploadController {
 
 **Project : typeconverter**
 
-![Spring-TypeConverter-Upload1](/home/mwkang/Downloads/Spring-TypeConverter-Upload1.gif)
+![Spring-TypeConverter-Upload1](https://user-images.githubusercontent.com/79822924/162283649-4494b6f8-fad4-4f6f-9830-7ae031f93703.gif)
 
 
 
 **Project : upload**
 
-![Spring-TypeConverter-Upload2](/home/mwkang/Downloads/Spring-TypeConverter-Upload2.gif)
+![Spring-TypeConverter-Upload2](https://user-images.githubusercontent.com/79822924/162283664-e11ebe68-4243-4c95-81be-efd22bffba69.gif)
 
 
 
@@ -162,3 +162,6 @@ public class SpringUploadController {
 
 
 ## More Explanation
+
+[Spring-typeconverter-Note.md](https://github.com/mwkangit/Spring-TypeConverter-Upload/blob/master/typeconverter/Spring-typeconverter.Note.md)
+[Spring-upload-Note.md](https://github.com/mwkangit/Spring-TypeConverter-Upload/blob/master/upload/Spring-upload-Note.md)
